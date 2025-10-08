@@ -6,7 +6,7 @@
 
 <br/>
 
-# Minecraft Installation
+# 🛠️ Minecraft Installation
 
 Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing process.
 
@@ -18,7 +18,7 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 
 ## MODS Installations
 
-### Performance MODs
+### 🚀 Performance MODs
 
 | Name           | Side   | Description                                                                                                                     |
 | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,9 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 | Entity Culling | Client | Using async path-tracing to hide Block-/Entities that are not visible.                                                          |
 | FerriteCore    | Server | Memory usage optimizations.                                                                                                     |
 
-### Visuals MODs
+<br />
+
+### 👾 GUI & Game MODs
 
 | Name                    | Side   | Description                                                  |
 | ----------------------- | ------ | ------------------------------------------------------------ |
@@ -38,11 +40,20 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 | 3D Skin Layers (`Null`) | Client | Render the player skin layer in 3d!                          |
 | Mod Menu (`Null`)       | Client | Adds a mod menu to view the list of mods you have installed. |
 
+<br />
+
+### 🍁 Visuals MODs
+
+**Coming Soon... .**
+<br />
+
 ## Footer
 
 > ## Contributer:
 >
 > - _@AbinoSin_
 > - _@Viv-z_
+
+<br />
 
 Contact: `@abinosin` on discord.
