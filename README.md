@@ -18,6 +18,8 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 
 ## MODS Installations
 
+You don't neet to search and download all mods mannualy. We provide the zip file for all mods listed here.
+
 ### 🚀 Performance MODs
 
 | Name           | Side   | Description                                                                                                                     |
