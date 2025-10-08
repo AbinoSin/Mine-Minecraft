@@ -55,11 +55,11 @@ All required mods are included in the provided `.zip` file available under the *
 
 ---
 
-## 🧾 Footer
+<br />
 
-**Contact:** `@abinosin` on Discord
-
-### Contributors
+## 🧾 Contributors
 
 - [@AbinoSin](https://github.com/AbinoSin)
 - [@Viv-z](https://github.com/Viv-z)
+
+**Contact:** `@abinosin` & `@vivusage_` on Discord
