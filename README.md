@@ -52,11 +52,13 @@ You don't neet to search and download all mods mannualy. We provide the zip file
 
 ## Footer
 
-> ## Contributer:
+Contact: `@abinosin` on discord.
+
+> ### Contributer:
+>
+> ---
 >
 > - _@AbinoSin_
 > - _@Viv-z_
 
 <br />
-
-Contact: `@abinosin` on discord.
