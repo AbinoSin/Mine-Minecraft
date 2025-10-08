@@ -1,3 +1,11 @@
+> ## **🗣️ Announcement:**
+>
+> - Server starts from Monday 13th Oct 2025
+
+<br/>
+
+<br/>
+
 # Minecraft Installation
 
 Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing process.
@@ -6,7 +14,7 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 - Make an offline cracked account. [See the process](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass).
 - Make this version of instance:
   - `1.21.9` Minecraft
-  - `0.17.1` Fabric Loader
+  - `0.17.2` Fabric Loader
 
 ## MODS Installations
 
@@ -23,14 +31,12 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
 
 ### Visuals MODs
 
-| Name                    | Side   | Description                                                                                             |
-| ----------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| Iris Shaders            | Client | A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs |
-| AppleSkin               | Server | Food/hunger-related HUD improvements                                                                    |
-| Chat Heads              | Client | See who you're chatting with!                                                                           |
-| 3D Skin Layers (`Null`) | Client | Render the player skin layer in 3d!                                                                     |
-| Bare Bones              | Client | Minecraft with the style of the trailers                                                                |
-| Mod Menu (`Null`)       | Client | Adds a mod menu to view the list of mods you have installed.                                            |
+| Name                    | Side   | Description                                                  |
+| ----------------------- | ------ | ------------------------------------------------------------ |
+| AppleSkin               | Server | Food/hunger-related HUD improvements                         |
+| Chat Heads              | Client | See who you're chatting with!                                |
+| 3D Skin Layers (`Null`) | Client | Render the player skin layer in 3d!                          |
+| Mod Menu (`Null`)       | Client | Adds a mod menu to view the list of mods you have installed. |
 
 ## Footer
 
