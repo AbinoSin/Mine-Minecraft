@@ -1,64 +1,65 @@
-> ## **🗣️ Announcement:**
->
-> - Server starts from Monday 13th Oct 2025
+# 🗣️ Announcement
 
-<br/>
+> **Server starts on Monday, 13th October 2025**
+
+---
 
 ## 🛠️ Minecraft Installation
 
-Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing process.
+Use **[Prism Launcher](https://prismlauncher.org/)** with **Java 21** for the best performance and compatibility.
 
-- Download the official prism luncher from [here](https://prismlauncher.org/).
-- Make an offline cracked account. [See the process](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass).
-- Make this version of instance:
-  - `1.21.9` Minecraft
-  - `0.17.2` Fabric Loader
+### Setup Steps
 
-<br />
+1. Download Prism Launcher.
+2. Create an offline cracked account — [guide here](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass).
+3. Create a new instance with:
+   - **Minecraft:** `1.21.9`
+   - **Fabric Loader:** `0.17.2`
 
-## MODS Installations
+---
 
-You don't neet to search and download all mods mannualy. We provide the zip file for all mods listed here.
+## 📦 Mods Installation
 
-### 🚀 Performance MODs
+You don’t need to download each mod manually.  
+All required mods are included in the provided `.zip` file available under the **[Releases](../../releases)** section.
 
-| Name           | Side   | Description                                                                                                                     |
-| -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| Fabric API     | Server | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. |
-| Sodium         | Client | The fastest and most compatible rendering optimization mod for Minecraft.                                                       |
-| Lithium        | Server | No-compromises game logic optimization mod. Well suited for clients and servers of all kinds.                                   |
-| ScalableLux    | Server | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.                                    |
-| Entity Culling | Client | Using async path-tracing to hide Block-/Entities that are not visible.                                                          |
-| FerriteCore    | Server | Memory usage optimizations.                                                                                                     |
+---
 
-<br />
+### 🚀 Performance Mods
 
-### 👾 GUI & Game MODs
+| Name               | Side   | Description                                                                      |
+| ------------------ | ------ | -------------------------------------------------------------------------------- |
+| **Fabric API**     | Server | Lightweight modular API providing compatibility hooks for Fabric-based mods.     |
+| **Sodium**         | Client | Rendering optimization mod for higher FPS and smoother visuals.                  |
+| **Lithium**        | Server | Game logic optimization improving server and client performance.                 |
+| **ScalableLux**    | Server | Performance mod improving light update calculations (based on Starlight).        |
+| **Entity Culling** | Client | Uses async path-tracing to hide unseen blocks and entities for faster rendering. |
+| **FerriteCore**    | Server | Reduces memory usage and improves performance across game logic.                 |
 
-| Name                    | Side   | Description                                                  |
-| ----------------------- | ------ | ------------------------------------------------------------ |
-| AppleSkin               | Server | Food/hunger-related HUD improvements                         |
-| Chat Heads              | Client | See who you're chatting with!                                |
-| 3D Skin Layers (`Null`) | Client | Render the player skin layer in 3d!                          |
-| Mod Menu (`Null`)       | Client | Adds a mod menu to view the list of mods you have installed. |
+---
 
-<br />
+### 🎮 GUI & Gameplay Mods
 
-### 🍁 Visuals MODs
+| Name               | Side   | Description                                        |
+| ------------------ | ------ | -------------------------------------------------- |
+| **AppleSkin**      | Server | Displays hunger and saturation details on the HUD. |
+| **Chat Heads**     | Client | Shows player heads next to messages in chat.       |
+| **3D Skin Layers** | Client | Renders player skin layers in full 3D.             |
+| **Mod Menu**       | Client | Adds an in-game mod list and settings viewer.      |
 
-**Coming Soon... .**
-<br />
-<br />
+---
 
-## Footer
+### 🍁 Visual Mods
 
-Contact: `@abinosin` on discord.
+> Coming soon...
 
-> ### Contributer:
->
-> ---
->
-> - _@AbinoSin_
-> - _@Viv-z_
+---
 
-<br />
+## 🧾 Footer
+
+**Contact:** `@abinosin` on Discord
+
+### Contributors
+
+- [@AbinoSin](https://github.com/AbinoSin)
+- [@Viv-z](https://github.com/Viv-z)
