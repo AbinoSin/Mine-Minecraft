@@ -4,8 +4,6 @@
 
 <br/>
 
-<br/>
-
 ## 🛠️ Minecraft Installation
 
 Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing process.
