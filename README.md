@@ -1,6 +1,13 @@
 # 🗣️ Announcement
 
-> **Server starts on Monday, 13th October 2025**
+> **MMC Server starts on Monday, 13th October 2025**
+
+```yml
+minemycraft.aternos.me
+```
+
+- Only whitelisted players can join.
+- Contact for whitelist access.
 
 ---
 
@@ -40,12 +47,13 @@ All required mods are included in the provided `.zip` file available under the *
 
 ### 🎮 GUI & Gameplay Mods
 
-| Name               | Side   | Description                                        |
-| ------------------ | ------ | -------------------------------------------------- |
-| **AppleSkin**      | Server | Displays hunger and saturation details on the HUD. |
-| **Chat Heads**     | Client | Shows player heads next to messages in chat.       |
-| **3D Skin Layers** | Client | Renders player skin layers in full 3D.             |
-| **Mod Menu**       | Client | Adds an in-game mod list and settings viewer.      |
+| Name               | Side   | Description                                                |
+| ------------------ | ------ | ---------------------------------------------------------- |
+| **AppleSkin**      | Server | Displays hunger and saturation details on the HUD.         |
+| **Chat Heads**     | Client | Shows player heads next to messages in chat.               |
+| **3D Skin Layers** | Client | Renders player skin layers in full 3D.                     |
+| **Mod Menu**       | Client | Adds an in-game mod list and settings viewer.              |
+| **Skin Restorer**  | Server | A server-side mod for managing and restoring player skins. |
 
 ---
 
