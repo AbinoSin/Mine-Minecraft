@@ -16,6 +16,8 @@ Use **PRISM LUNCHER** and **Java 21** for best compatibility and smooth playing 
   - `1.21.9` Minecraft
   - `0.17.2` Fabric Loader
 
+<br />
+
 ## MODS Installations
 
 ### 🚀 Performance MODs
